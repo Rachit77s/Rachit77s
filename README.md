@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachit77s&label=Profile%20views&color=0e75b6&style=flat" alt="rachit77s" /> </p>
 
-- 🔭 I like experimenting with new technologies, building small projects, and occasionally joining hackathons. **Here's a list of things I currently keep myself busy with: - 🏻‍💻 Working as a full stack developer over at Icertis using ASP.NET MVC, ASP.NET CORE, SQL, Front End Technologies. - 🛠 Getting myself into different technology stacks. Trying out new technologies in my spare time.**
+- 🔭 I like experimenting with new technologies, building small projects, and occasionally joining hackathons. Here's a list of things I currently keep myself busy with: **- 🏻‍💻 Working as a full stack developer over at Icertis using ASP.NET MVC, ASP.NET CORE, SQL, Front End Technologies. - 🛠 Getting myself into different technology stacks. Trying out new technologies in my spare time.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rachit77s](https://github.com/Rachit77s)
 
 - 💬 Ask me about **ASP.NET CORE, Azure, Angular, SQL**
 
-- ⚡ Fun fact **Some other facts about me-e-e: - My go to jam when coding: musicals. Non-stop. ⭐️ - I absolutely adore Pikachu, the best Pokémon.**
+- ⚡ Some other facts about me-e-e: **My go to jam when coding: musicals. Non-stop. ⭐️ I absolutely adore Pikachu, the best Pokémon.**
 
 
 <h3 align="left">Languages and Tools:</h3>
