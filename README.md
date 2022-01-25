@@ -14,7 +14,7 @@
 
 - 📚 Self Motivation + Commitment + Perseverance + Patience + Technology + Ideas + Team Player + Optimism - Motto of my life!
 
-- 🔭 Here's a list of things I currently keep myself busy with: **- 🏻‍💻 Working upon ASP.NET MVC, ASP.NET CORE, SQL, Front End Technologies. - 🛠 Getting myself into different technology stacks.**
+- 🔭 Here's a list of things I currently keep myself busy with: **- 🏻‍💻 Working upon ASP.NET CORE, SQL, Front End Technologies. - 🛠 Getting myself into different technology stacks.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rachit77s](https://github.com/Rachit77s)
 
