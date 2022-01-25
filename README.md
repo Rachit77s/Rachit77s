@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachit77s&label=Profile%20views&color=0e75b6&style=flat" alt="rachit77s" /> </p>
 
+<h3> About Me  🚀 </h3>
+
 - 🔭 I like experimenting with new technologies, building small projects, and occasionally joining hackathons. Here's a list of things I currently keep myself busy with: **- 🏻‍💻 Working as a full stack developer over at Icertis using ASP.NET MVC, ASP.NET CORE, SQL, Front End Technologies. - 🛠 Getting myself into different technology stacks. Trying out new technologies in my spare time.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rachit77s](https://github.com/Rachit77s)
