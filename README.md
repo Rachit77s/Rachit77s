@@ -8,6 +8,15 @@
 
 <h3> About Me  🚀 </h3>
 
+- <p>
+🔭 I'm a passionate Software Engineer with a knack of learning something new everyday.
+</p>
+<p>
+📎 In my free time I love to learn about latest technologies and work on my logic building skills.
+</p>
+<p>
+📚 Self Motivation + Commitment + Technology + Ideas + Team Player + Optimism - Motto of my life!
+</p>
 - 🔭 I like experimenting with new technologies, building small projects, and occasionally joining hackathons. Here's a list of things I currently keep myself busy with: **- 🏻‍💻 Working as a full stack developer over at Icertis using ASP.NET MVC, ASP.NET CORE, SQL, Front End Technologies. - 🛠 Getting myself into different technology stacks. Trying out new technologies in my spare time.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rachit77s](https://github.com/Rachit77s)
