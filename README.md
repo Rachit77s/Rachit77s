@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **ASP.NET CORE, Azure, Angular, SQL**
 
-- ⚡ Some other facts about me-e-e: **My go to jam when coding: musicals. Non-stop. ⭐️ I absolutely adore Pikachu, the best Pokémon.**
+- ⚡ Some other facts about me-e-e: **My go to jam when coding: musicals. Non-stop.**
 
 
 <h3 align="left">Languages and Tools:</h3>
