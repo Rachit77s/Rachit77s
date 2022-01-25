@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/rachitsrivastava19/">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<h3 align="center">CLOUD ENGINEER | ASP.NET CORE | FULLSTACK | AZURE | WEB DEVELOPMENT | SQL DEVELOPMENT</h3>
+<p align="center">CLOUD ENGINEER | ASP.NET CORE | FULLSTACK | AZURE | WEB DEVELOPMENT | SQL DEVELOPMENT</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachit77s&label=Profile%20views&color=0e75b6&style=flat" alt="rachit77s" /> </p>
 
