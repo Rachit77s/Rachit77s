@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/rachitsrivastava19/">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<p align="center">CLOUD ENGINEER | ASP.NET CORE | FULLSTACK | AZURE | WEB DEVELOPMENT | SQL DEVELOPMENT</p>
+<p align="center">CLOUD ENGINEER | FULLSTACK | AZURE | WEB DEVELOPMENT | SQL DEVELOPMENT</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachit77s&label=Profile%20views&color=0e75b6&style=flat" alt="rachit77s" /> </p>
 
@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rachit77s](https://github.com/Rachit77s)
 
-- 💬 Ask me about **ASP.NET CORE, Azure, Angular, SQL**
+- 💬 Ask me about **ASP.NET CORE, Azure, Java, SQL**
 
 - ⚡ Some other facts about me-e-e: **My go to jam when coding: musicals. Non-stop.**
 
