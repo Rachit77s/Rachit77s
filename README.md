@@ -30,15 +30,18 @@
 (https://activity-graph.herokuapp.com/graph?username=Rachit77s&&theme=xcode)](https://github.com/Rachit77s)
  -->
  
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rachit77s&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Rachit77s" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rachit77s&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Rachit77s" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rachit77s&show_icons=true&locale=en&theme=tokyonight" alt="Rachit77s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rachit77s&&theme=tokyonight" alt="Rachit77s" /></p>
 
- -->
 
+ 
+ 
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rachit77s&show_icons=true&locale=en&layout=compact" alt="rachit77s" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rachit77s&show_icons=true&locale=en" alt="rachit77s" /></p>
  
+ -->
